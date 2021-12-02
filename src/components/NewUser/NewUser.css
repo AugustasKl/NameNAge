@@ -1,0 +1,10 @@
+.new-user{
+    background-color: whitesmoke;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    /* text-align: center; */
+    border-radius: 10px;
+
+}

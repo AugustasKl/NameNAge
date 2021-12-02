@@ -1,0 +1,25 @@
+.error-message{
+    background-color: whitesmoke;
+    /* padding: 1rem; */
+    margin: 12rem auto;
+    width: 50rem;
+    max-width: 95%;
+    /* border-radius: 12px; */
+}
+.error-message__header{
+        padding: 0.5rem;
+    background-color: rgb(126, 7, 126);
+    color: white;
+    font-style: inherit;
+}
+
+.error-message__text{
+    padding: 3rem;
+    font-size: 1.5rem;
+}
+
+.error-message-actions{
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
